@@ -1,3 +1,3 @@
-# ⚙️ Blender Snippets
+# ⚙️ Blender Utils
 
 Misc. utility scripts for Blender
