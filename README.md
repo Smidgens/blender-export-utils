@@ -1,3 +1,3 @@
-# Blender Export Script
+# ⚙️ Blender Scripts
 
-Export snippet scripts for Blender.
+Misc. utility scripts for Blender
